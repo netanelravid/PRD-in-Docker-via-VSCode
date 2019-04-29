@@ -1,5 +1,5 @@
 # PRD-in-Docker-via-VSCode
-Toturial on remote debugging of python application in a docker container via VScode
+Tutorial about remote debugging of python application in a docker container via VScode
 
 ## **Preparations:**
 ### **Host**
